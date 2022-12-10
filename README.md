@@ -14,7 +14,8 @@ Over the years I've been compiling multiple lists on many different mediums but 
 - [Projects](#projects)
 - [Videos](#videos)
 - [Interviewing](#interviewing)
-
+- [Planning](#planning)
+- [Unorganized](#unorganized)
 
 ## Computer Science
 - [Open Source Society University](https://github.com/ossu/computer-science)
@@ -43,6 +44,8 @@ Over the years I've been compiling multiple lists on many different mediums but 
 ## Interviewing
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org)
 
+## Planning
+- [No Estimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
 
 ## Unorganized
 - https://refactoring.guru
