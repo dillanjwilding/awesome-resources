@@ -7,6 +7,7 @@ Over the years I've been compiling multiple lists on many different mediums but 
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
+- [How Things Work](#how-things-work)
 - [Computer Science](#computer-science)
 - [System Design](#system-design)
 - [Data Engineering](#data-engineering)
@@ -17,9 +18,14 @@ Over the years I've been compiling multiple lists on many different mediums but 
 - [Planning](#planning)
 - [Unorganized](#unorganized)
 
+## How Things Work
+- [How Web Works](https://github.com/vasanthk/how-web-works)
+
 ## Computer Science
 - [Open Source Society University](https://github.com/ossu/computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Developer Handbook](https://github.com/apptension/developer-handbook)
 
 ## System Design
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
