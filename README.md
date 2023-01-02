@@ -9,6 +9,7 @@ Over the years I've been compiling multiple lists on many different mediums but 
 - [Table of Contents](#table-of-contents)
 - [How Things Work](#how-things-work)
 - [Computer Science](#computer-science)
+- [Javascript](#javascript)
 - [System Design](#system-design)
 - [Data Engineering](#data-engineering)
 - [Machine Learning](#machine-learning)
@@ -26,6 +27,9 @@ Over the years I've been compiling multiple lists on many different mediums but 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
+
+## Javascript
+- [You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## System Design
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
