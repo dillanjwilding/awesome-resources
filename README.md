@@ -25,6 +25,7 @@ Over the years I've been compiling multiple lists on many different mediums but 
 ## Computer Science
 - [Open Source Society University](https://github.com/ossu/computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com)
+- [Developer Roadmaps](https://roadmap.sh)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
 
